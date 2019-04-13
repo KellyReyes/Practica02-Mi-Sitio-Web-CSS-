@@ -1,0 +1,31 @@
+#menu{
+    
+    
+    float: left;width: 20%;
+   
+    
+    
+    
+}
+
+    #articulo{
+        text-align: justify;
+        margin-left: 10px;
+        margin-right: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+        float: left;width: 45%;
+        margin-bottom: 10px;
+       
+        
+    }
+
+    #anexos{
+    
+    
+        float: left;width: 30%;
+        white-space: pre-line;
+        
+        
+        
+    }

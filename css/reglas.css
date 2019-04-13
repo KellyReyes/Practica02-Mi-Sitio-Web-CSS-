@@ -1,0 +1,114 @@
+
+#imgtamaño{
+    width: 500px;
+    height: 300px;;
+   }
+.posicionimg{
+    
+ text-align: center;
+
+    }
+
+.tamañotexto{
+    font-size: x-large ;
+   }
+#finpagina{
+   
+    clear: both;
+    margin-right: 30px;
+  
+
+   }
+
+.ubicaciontexto{
+    text-align: right;
+}
+
+.colorinstagram{
+
+    border-width: thin 10px;
+    border-width: unset;
+    border-style: groove;
+    background-color: rgb(148, 237, 243);
+
+} 
+.colorfacebook{
+
+    border-width: thin 10px;
+    border-width: unset;
+    border-style: groove;
+    background-color: darkseagreen ;
+
+} 
+.colorsnapchat{
+
+    border-width: thin 10px;
+    border-width: unset;
+    border-style: groove;
+    background-color: rgba(228, 159, 102, 0.658);
+
+} 
+.colortwitter{
+
+    border-width: thin 10px;
+    border-width: unset;
+    border-style: groove;
+    background-color: rgba(248, 246, 116, 0.658);
+
+} 
+.colorwhatsapp{
+
+    border-width: thin 10px;
+    border-width: unset;
+    border-style: groove;
+    background-color: rgba(116, 77, 100, 0.658);
+
+} 
+
+.colormenu{
+
+    border-width: thin 10px;
+    border-width: unset;
+    border-style: groove;
+    
+    background-color:chartreuse
+
+}
+.colorarticulo{
+
+    border-width: thin 10px;
+    border-width: unset;
+    border-style: groove;
+    background-color:skyblue
+
+}
+.coloranexos{
+
+    border-width: thin 10px;
+    border-width: unset;
+    border-style: groove;
+    background-color:rgba(116, 77, 100, 0.658)
+
+}
+.textocentrado{
+    margin:auto;
+    width:500px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+.texto{
+    text-decoration-line: underline;
+
+}
+
+.a:link {
+    color: green;
+  }
+.body {width:410px; border-style: dotted; border-width: 2px;}
+
+#caja1{ border-color:orange;border-style: solid;white-space: pre-wrap;}
+#caja2{ border-color:orange;border-style: solid;white-space: pre-wrap; }
+#caja3{ border-color:orange;border-style: solid;white-space: pre-wrap;}
+#caja4{border-color:orange;border-style: solid;white-space: pre-wrap;}
+#caja4{border-color:orange;border-style: solid;white-space: pre-wrap;}
