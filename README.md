@@ -69,7 +69,7 @@ EVIDENCIA DE LOS ARCHIVOS CSS.
 •	TRESCOLUMNAS
 
 
-(https://github.com/KellyReyes/Practica02-Mi-Sitio-Web-CSS-/blob/master/evidencia/3.png)
+(https://github.com/KellyReyes/Practica02-Mi-Sitio-Web-CSS-/blob/master/evidencia/colum3.png)
 
 
 VALIDACION DE LOS ARCHIVOS CSS.
@@ -120,32 +120,13 @@ una clase colorfacebook y un id de fin de pagina que ayuda a darle color a la se
 
 B.	 Evidencia de la correcta estructuración de las páginas HTML. 
 
+(https://github.com/KellyReyes/Practica02-Mi-Sitio-Web-CSS-/blob/master/evidencia/1.png)
 
-(https://github.com/KellyReyes/Practica02-Mi-Sitio-Web-CSS-/blob/master/evidencia/4.png)
 
 C.	La evidencia de la validación de cada página HTML. 
 
 	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+(https://github.com/KellyReyes/Practica02-Mi-Sitio-Web-CSS-/blob/master/evidencia/2.png)
 
 
    2. instagram.html
@@ -172,47 +153,11 @@ una clase colorfinstagram y un id de fin de pagina que ayuda a darle color a la 
 B.	Evidencia de la correcta estructuración de las páginas HTML.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+(https://github.com/KellyReyes/Practica02-Mi-Sitio-Web-CSS-/blob/master/evidencia/3.png)
 
 A.	La evidencia de la validación de cada página HTML. 
 
-
-
-
-
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+(https://github.com/KellyReyes/Practica02-Mi-Sitio-Web-CSS-/blob/master/evidencia/4.png)
 
 
    3. snapchat.html
@@ -239,42 +184,12 @@ una clase colorsnapchat y un id de fin de pagina que ayuda a darle color a la se
 
 B.	Evidencia de la correcta estructuración de las páginas HTML.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+(https://github.com/KellyReyes/Practica02-Mi-Sitio-Web-CSS-/blob/master/evidencia/5.png)
 
 C.	La evidencia de la validación de cada página HTML. 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+(https://github.com/KellyReyes/Practica02-Mi-Sitio-Web-CSS-/blob/master/evidencia/6.png)
 
 
 4. twitter.html
@@ -297,46 +212,11 @@ una clase colortwitter y un id de fin de pagina que ayuda a darle color a la sec
 
 B.	Evidencia de la correcta estructuración de las páginas HTML.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+(https://github.com/KellyReyes/Practica02-Mi-Sitio-Web-CSS-/blob/master/evidencia/7.png)
 
 C.	La evidencia de la validación de cada página HTML.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+(https://github.com/KellyReyes/Practica02-Mi-Sitio-Web-CSS-/blob/master/evidencia/8.png)
 
 
 5.whatsapp.html
@@ -360,51 +240,11 @@ una clase colorwhatsapp y un id de fin de pagina que ayuda a darle color a la se
 
 B.	Evidencia de la correcta estructuración de las páginas HTML.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+(https://github.com/KellyReyes/Practica02-Mi-Sitio-Web-CSS-/blob/master/evidencia/9.png)
 
 C.	La evidencia de la validación de cada página HTML.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+(https://github.com/KellyReyes/Practica02-Mi-Sitio-Web-CSS-/blob/master/evidencia/10.png)
 
 
 5.index.html
@@ -425,53 +265,14 @@ footer>  dentro de esta etiqueta se cuenta con :
 una clase colorfin y un id de fin de pagina que ayuda a darle color a la sección y para que se quede al final.
 
 
-
-
-
 B.	Evidencia de la correcta estructuración de las páginas HTML.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+(https://github.com/KellyReyes/Practica02-Mi-Sitio-Web-CSS-/blob/master/evidencia/11.png)
 
 
 A.	La evidencia de la validación de cada página HTML.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+(https://github.com/KellyReyes/Practica02-Mi-Sitio-Web-CSS-/blob/master/evidencia/12.png)
 
 
 6.INFORMACIÓN DE GITHUB (USUARIO Y URL DEL REPOSITORIO DE LA PRÁCTICA) 
