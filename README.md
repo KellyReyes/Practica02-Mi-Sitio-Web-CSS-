@@ -59,12 +59,12 @@ A.	tresColumnas.css cuenta con la siguiente estructura:
 EVIDENCIA DE LOS ARCHIVOS CSS.
 •	REGLAS
 
-(https://github.com/KellyReyes/Practica02-Mi-Sitio-Web-CSS-/blob/master/evidencia/1.png)
+(https://github.com/KellyReyes/Practica02-Mi-Sitio-Web-CSS-/blob/master/evidencia/reg.png)
 
 •	DOSCOLUMNAS
 
 
-(https://github.com/KellyReyes/Practica02-Mi-Sitio-Web-CSS-/blob/master/evidencia/2.png)
+(https://github.com/KellyReyes/Practica02-Mi-Sitio-Web-CSS-/blob/master/evidencia/d.png)
 
 •	TRESCOLUMNAS
 
