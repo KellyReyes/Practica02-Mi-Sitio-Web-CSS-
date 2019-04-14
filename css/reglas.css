@@ -102,9 +102,7 @@
 
 }
 
-.a:link {
-    color: green;
-  }
+
 .body {width:410px; border-style: dotted; border-width: 2px;}
 
 #caja1{ border-color:orange;border-style: solid;white-space: pre-wrap;}
