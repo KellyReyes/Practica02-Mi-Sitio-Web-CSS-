@@ -103,10 +103,33 @@
 }
 
 
-.body {width:410px; border-style: dotted; border-width: 2px;}
+.body {
+    width:410px;
+    border-style: dotted;
+    border-width: 2px;}
 
-#caja1{ border-color:orange;border-style: solid;white-space: pre-wrap;}
-#caja2{ border-color:orange;border-style: solid;white-space: pre-wrap; }
-#caja3{ border-color:orange;border-style: solid;white-space: pre-wrap;}
-#caja4{border-color:orange;border-style: solid;white-space: pre-wrap;}
-#caja4{border-color:orange;border-style: solid;white-space: pre-wrap;}
+#caja1{ 
+    border-color:orange;
+    border-style: solid;
+    white-space: pre-wrap;
+}
+#caja2{
+     border-color:orange;
+     border-style: solid;
+     white-space: pre-wrap;
+     }
+#caja3{
+     border-color:orange;
+     border-style: solid;
+     white-space: pre-wrap;
+    }
+#caja4{
+    border-color:orange;
+    border-style: solid;
+    white-space: pre-wrap;
+}
+#caja4{
+    border-color:orange;
+    border-style: solid;
+    white-space: pre-wrap;
+}
